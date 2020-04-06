@@ -1,0 +1,13 @@
+{
+    "name": "larky/blog-laravel",
+    "description": "Demo CMS for laravel",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vu Ngoc Anh",
+            "email": "johnavu.it@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
