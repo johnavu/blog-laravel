@@ -1,13 +1,23 @@
 {
-    "name": "larky/blog-laravel",
-    "description": "Demo CMS for laravel",
-    "type": "project",
-    "authors": [
-        {
-            "name": "Vu Ngoc Anh",
-            "email": "johnavu.it@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+  "name": "larky/blog-laravel",
+  "description": "Demo CMS for laravel",
+  "type": "project",
+  "keywords": [
+    "laravel",
+    "repository",
+    "repository pattern",
+    "eloquent",
+    "repositories",
+    "blog laravel",
+    "cms laravel"
+  ],
+  "license": "BSD-2-Clause",
+  "authors": [
+    {
+      "name": "Vu Ngoc Anh",
+      "email": "johnavu.it@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
 }
